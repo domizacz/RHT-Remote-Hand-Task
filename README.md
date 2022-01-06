@@ -1,1 +1,0 @@
-# RHT-Remote-Hand-Task
